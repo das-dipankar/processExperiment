@@ -6,6 +6,7 @@
 #define WIDTH 50
 #define HEIGHT 20
 
+// added line 1
 typedef struct
 {
     int x;
